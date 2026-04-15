@@ -22,6 +22,10 @@
 | 日期 | 论文 | 主题 | 链接 |
 |------|------|------|------|
 | 2026-04-11 | SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds | 可变形物体操作的物理对齐仿真 | [笔记](./2026-04-11_SIM1_具身智能论文阅读.md) |
+| 2026-04-12 | Fail2Drive: Benchmarking Closed-Loop Driving Generalization | 自动驾驶闭环泛化评估基准 | [笔记](./2026-04-12_Fail2Drive_具身智能论文阅读.md) |
+| 2026-04-13 | ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration | 主动视觉的模仿学习 | [笔记](./2026-04-13_ActiveGlasses_具身智能论文阅读.md) |
+| 2026-04-14 | Learning Versatile Humanoid Manipulation with Touch Dreaming | 触觉梦想的人形机器人操作 | [笔记](./2026-04-14_HTD_具身智能论文阅读.md) |
+| 2026-04-15 | Real-time Multi-sensor Gaussian Splatting SLAM | 实时多传感器高斯泼溅SLAM | [笔记](./2026-04-15_LIV-GS_具身智能论文阅读.md) |
 
 ---
 
@@ -32,6 +36,8 @@
 - **视觉-语言-动作模型** (Vision-Language-Action Models)
 - **机器人学习** (Robot Learning)
 - **具身智能仿真平台** (Embodied AI Simulation)
+- **人形机器人** (Humanoid Robotics)
+- **SLAM与定位建图** (SLAM and Mapping)
 
 ---
 
@@ -52,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-04-11*
+*Last updated: 2026-04-15*
