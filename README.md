@@ -27,6 +27,7 @@
 | 2026-04-14 | Learning Versatile Humanoid Manipulation with Touch Dreaming | 触觉梦想的人形机器人操作 | [笔记](./2026-04-14_HTD_具身智能论文阅读.md) |
 | 2026-04-15 | Real-time Multi-sensor Gaussian Splatting SLAM | 实时多传感器高斯泼溅SLAM | [笔记](./2026-04-15_LIV-GS_具身智能论文阅读.md) |
 | 2026-04-21 | VADF: Vision-Adaptive Diffusion Policy Framework for Efficient Robotic Manipulation | 视觉自适应扩散策略框架 | [笔记](./2026-04-21_VADF_具身智能论文阅读.md) |
+| 2026-04-24 | PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance | 袖珍型VLA模型与世界知识指导 | [笔记](./2026-04-24_PokeVLA_具身智能论文阅读.md) |
 
 ---
 
@@ -59,4 +60,4 @@
 
 ---
 
-*Last updated: 2026-04-21*
+*Last updated: 2026-04-24*
